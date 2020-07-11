@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Welcome to my Github profile.
 
+<img src="https://time2hack.com/favicon.png" height="60" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
+
 Currently I am working on new Article and Video Tutorial (maybe Series) to setwup effective Portfolio.
 
 Along with that I am trying to add Algolia on my GhostCMS powered blog @time2hack
@@ -36,7 +38,5 @@ If you have any questions or ideas regrading:
 - Programming Discussions
 - anything else where you want a good debate ;) 
 
-you can reach me on
-- [twitter](@patel_pankaj_)
-- [homepage](https://pankaj.pro)
-- [email](mailto:hello@pankaj.pro)
+you can reach me with theses ways
+⬅ See here 🙃
