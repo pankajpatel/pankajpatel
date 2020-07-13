@@ -21,7 +21,7 @@ Welcome to my Github profile.
 
 Currently I am working on new Article and Video Tutorial (maybe Series) to setwup effective Portfolio.
 
-Along with that I am trying to add Algolia on my GhostCMS powered blog @time2hack
+Along with that I am trying to add Algolia on my GhostCMS powered blog [@time2hack](https://time2hack.com)
 
 I spend my spare time learning about 
 - Video Recording and PostProduction ([my current work is here](https://www.youtube.com/channel/UCRu_FdU1qAuCbS2HqyZNwZA))
