@@ -19,9 +19,7 @@ Welcome to my Github profile.
 
 <img src="https://time2hack.com/favicon.png" height="60" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
 
-Currently I am working on new Article and Video Tutorial (maybe Series) to setwup effective Portfolio.
-
-Along with that I am trying to add Algolia on my GhostCMS powered blog [@time2hack](https://time2hack.com)
+Currently I am working on new Article and Video Tutorial (maybe Series) to setup effective Portfolio.
 
 I spend my spare time learning about 
 - Video Recording and PostProduction ([my current work is here](https://www.youtube.com/channel/UCRu_FdU1qAuCbS2HqyZNwZA))
